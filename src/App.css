@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*    MY CSS    */
+.heading1{
+  color: teal;
+  text-decoration: wheat underline !important;
+  text-align: center;
+}
+
+nav #list li{
+  display: inline;
+  padding: 30px;
+}
+
+li{
+  text-align: center;
+  text-decoration: none !important;
+}
